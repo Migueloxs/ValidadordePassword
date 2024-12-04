@@ -1,0 +1,12 @@
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\bin\Debug\ValidadorDeContraseñasUI.dll
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\bin\Debug\ValidadorDeContraseñasUI.pdb
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\bin\Debug\ValidadorDeContraseñas.Core.dll
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\bin\Debug\ValidadorDeContraseñas.Core.pdb
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\obj\Debug\ValidadorDeContraseñasUI.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\obj\Debug\ValidadorDeContraseñasUI.Properties.Resources.resources
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\obj\Debug\ValidadorDeContraseñasUI.UserControl1.resources
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\obj\Debug\ValidadorDeContraseñasUI.csproj.GenerateResource.cache
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\obj\Debug\ValidadorDeContraseñasUI.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\obj\Debug\Validado.9DF6F8D9.Up2Date
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\obj\Debug\ValidadorDeContraseñasUI.dll
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñasUI\obj\Debug\ValidadorDeContraseñasUI.pdb

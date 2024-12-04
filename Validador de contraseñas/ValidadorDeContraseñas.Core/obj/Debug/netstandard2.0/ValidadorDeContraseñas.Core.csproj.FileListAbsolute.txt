@@ -1,0 +1,10 @@
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñas.Core\bin\Debug\netstandard2.0\ValidadorDeContraseñas.Core.deps.json
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñas.Core\bin\Debug\netstandard2.0\ValidadorDeContraseñas.Core.dll
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñas.Core\bin\Debug\netstandard2.0\ValidadorDeContraseñas.Core.pdb
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñas.Core\obj\Debug\netstandard2.0\ValidadorDeContraseñas.Core.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñas.Core\obj\Debug\netstandard2.0\ValidadorDeContraseñas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñas.Core\obj\Debug\netstandard2.0\ValidadorDeContraseñas.Core.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñas.Core\obj\Debug\netstandard2.0\ValidadorDeContraseñas.Core.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñas.Core\obj\Debug\netstandard2.0\ValidadorDeContraseñas.Core.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñas.Core\obj\Debug\netstandard2.0\ValidadorDeContraseñas.Core.dll
+C:\Users\robin\OneDrive\Escritorio\Proyecto Final P3\Validador de contraseñas\ValidadorDeContraseñas.Core\obj\Debug\netstandard2.0\ValidadorDeContraseñas.Core.pdb
